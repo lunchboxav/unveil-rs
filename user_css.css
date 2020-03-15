@@ -1,0 +1,24 @@
+#unveil-slide-3 {
+  background-color: #4c566a;
+  color: #eceff4; }
+  #unveil-slide-3 h1 {
+    color: #8fbcbb; }
+
+#unveil-slide-5 .social-links {
+  justify-content: center;
+  display: flex; }
+
+#unveil-slide-5 .social-links a {
+  margin: 0.5em; }
+
+#unveil-slide-5 .social-links a.fab:nth-child(2) {
+  color: #1da1f2; }
+
+#unveil-slide-5 .social-links a.fab:nth-child(2):visited {
+  color: #1da1f2; }
+
+#unveil-slide-5 .social-links a.fab:nth-child(1) {
+  color: black; }
+
+#unveil-slide-5 .social-links a.fab:nth-child(1):visited {
+  color: #black; }
